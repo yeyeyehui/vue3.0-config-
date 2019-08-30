@@ -15,7 +15,7 @@ module.exports = {
   // 指定子路径。比如，如果你的应用部署在
   // https://www.**.com/my-app/
   // 那么将这个值改为 `/my-app/`
-  baseUrl: '/my-app/',　　/*   默认打开的页面目录是/my-app/  */
+  baseUrl: '/my-app/',　　/*   默认打开的页面目录是http://localhost/8080/my-app/  */
 
   // 将构建好的文件输出到哪里,用于打包
   outputDir: 'dist',
